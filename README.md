@@ -1,3 +1,2 @@
-# hello-world
-Este repositorio es para practicar el flujo de Github
-Mi nombre es Abraham, tengo 20 años.
+# Desarrollo de Apps Avanzadas
+Este repositorio es para practicar el flujo de Githuh
